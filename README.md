@@ -21,3 +21,13 @@ Il sistema è basato su un’architettura distribuita composta da due nodi STM32
 **Uso di protocolli embedded**
 - **UART** per la comunicazione tra nodi e con il modulo Wi-Fi.
 - **I2C** per la comunicazione con il sensore **MPU6050**.
+
+## Authors
+
+- **Matteo Cuomo**
+- **Antonio Tufo**
+
+Project developed for the course **Architettura e Progetto dei Calcolatori**  
+University of Naples Federico II  
+Academic Year 2024/2025  
+Professor: Nicola Mazzocca
