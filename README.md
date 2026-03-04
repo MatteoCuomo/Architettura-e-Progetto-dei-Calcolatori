@@ -28,8 +28,11 @@ Il sistema è basato su un’architettura distribuita composta da due nodi STM32
 - **Antonio Tufo**
 
 Project developed for the course **Architettura e Progetto dei Calcolatori**  
+
 University of Naples Federico II  
+
 Academic Year 2024/2025  
+
 Professor: Nicola Mazzocca
 
 ## License
